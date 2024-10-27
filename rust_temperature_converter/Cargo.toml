@@ -1,0 +1,8 @@
+[package]
+name = "rust_temperature_converter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.20.0"
+egui = "0.20.0"
