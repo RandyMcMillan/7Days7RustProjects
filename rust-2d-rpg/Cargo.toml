@@ -1,0 +1,8 @@
+[package]
+name = "rust-2d-rpg"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ggez = "0.6.1"
+rand = "0.8.4"
