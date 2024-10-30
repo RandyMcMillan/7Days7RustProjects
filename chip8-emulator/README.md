@@ -643,7 +643,11 @@ fn main() {
 To run:
 
 ```sh
-cargo run -- --rom path/to/your/rom.ch8
+sudo apt-get install libsdl2-dev
+```
+
+```sh
+cargo run romfile.ch8
 ```
 
 #### Explanation
